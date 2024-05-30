@@ -1,0 +1,237 @@
+{
+  "section-header": {
+    "navbar": [
+      {
+        "id": 1,
+        "text": "HOME",
+        "href": "home",
+        "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713749117/icons/lmoaahy64aukkhs7wzjo.png",
+        "alt": "icon image home"
+      },
+      {
+        "id": 2,
+        "text": "SERVICES",
+        "href": "services",
+        "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713749117/icons/rp2jfmrods6bcwweqxja.png",
+        "alt": "icon image services"
+      },
+      {
+        "id": 3,
+        "text": "WHY US?",
+        "href": "whyus",
+        "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713749117/icons/d0kzeuaomrzyu0lh1li4.png",
+        "alt": "icon image why"
+      },
+      {
+        "id": 4,
+        "text": "ABOUT US",
+        "href": "about",
+        "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713749117/icons/ahau1yjehwvmwd73hzqc.png",
+        "alt": "icon image about"
+      },
+      {
+        "id": 5,
+        "text": "TESTIMONIALS",
+        "href": "testimonials",
+        "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713749117/icons/xcpntyozaprkzea4hlyn.png",
+        "alt": "icon image testimonials"
+      },
+      {
+        "id": 6,
+        "text": "PROJECT",
+        "href": "projects",
+        "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713749117/icons/vtlcz3bmlrkiimsnvp4q.png",
+        "alt": "icon image projects"
+      }
+    ],
+    "blog": {
+      "id": 11,
+      "text": "BLOG",
+      "href": "https://harborlead.blog.sistemasvirtuales.net",
+      "icon": "bloggray.png",
+      "alt": "icon image blog"
+    },
+    "button": {
+      "id": 7,
+      "text": "CONTACT",
+      "href": "contact",
+      "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713749117/icons/mffequafivmj8oywl0kw.png",
+      "alt": "icon image contact"
+    }
+  },
+  "section-one": {
+    "bg": "hero.webp",
+    "bg-alt": "background image",
+    "title": "Drive success, navigate the future - Harborlead",
+    "form": {
+      "title-form": "Get a Free Consultation",
+      "full-name": "Full Name",
+      "email": "Enter Email Address",
+      "number": "Mobile Number",
+      "city": "Area, City",
+      "button": "Get Quick Quote"
+    }
+  },
+  "section-two": {
+    "title": "Services",
+    "paragraph": "At Harborlead Tech, we are pioneers in creating cutting-edge technological solutions for managing and capturing leads. Founded by a team of passionate technology and tourism experts, our mission is to drive growth and efficiency in the tourism industry through innovative and customized tools.",
+    "bg": "summer.png",
+    "bg-alt": "background image",
+    "img1": "about1.jpg",
+    "alt1": "about image1",
+    "img2": "about2.jpg",
+    "alt2": "about image2",
+    "img3": "about3.jpg",
+    "alt3": "about image3"
+  },
+  "section-three": {
+    "bg": "summer.png",
+    "title": "Why Choose Us?",
+    "Card1": {
+      "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713587268/leads_landing/iconos/zbw9m6bycsxqdfzee57l.png",
+      "icon-alt": "icon image card1",
+      "title": "Competitive advantages",
+      "paragraph": "We pride ourselves on offering the best solutions on the market for managing and capturing leads in the tourism sector. Our focus on innovation and customization allows us to provide our clients with cutting-edge technological tools that maximize their operational efficiency and business success."
+    },
+    "Card2": {
+      "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713587268/leads_landing/iconos/u3vsxfushckcz7ag7x6r.png",
+      "icon-alt": "icon image card2",
+      "title": "Commitment to quality",
+      "paragraph": "Quality is fundamental to everything we do at Harborlead Tech. From initial design to implementation and ongoing support, we strive to ensure that every aspect of our technology solutions meets the highest standards of excellence. Our goal is to exceed our customers' expectations every step of the way."
+    },
+    "Card3": {
+      "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713587268/leads_landing/iconos/xnw79s4p5mhhiyl7sdz2.png",
+      "icon-alt": "icon image card3",
+      "title": "Continuous innovation",
+      "paragraph": "In a constantly evolving world, innovation is key to staying relevant and competitive. So, at Harborlead Tech, we are dedicated to constant research and development, always looking for new ways to improve and expand our technological solutions to meet the changing needs of the tourism market."
+    }
+  },
+  "section-four": {
+    "photo1": {
+      "url": "why1.jpg",
+      "alt": "photo1 image"
+    },
+    "photo2": {
+      "url": "why2.jpg",
+      "alt": "photo2 image"
+    },
+    "photo3": {
+      "url": "why3.jpg",
+      "alt": "photo3 image"
+    },
+    "title": "About Us",
+    "paragraph": "Our mission at Harborlead is to provide our clients in the tourism industry with the tools necessary to reach their full potential. We strive to design and develop cutting-edge technological solutions that optimize comprehensive lead management, allowing our clients to convert opportunities into tangible results.",
+    "button": "LEARN MORE"
+  },
+  "section-six": {
+    "title": "Happy Clients",
+    "testimonials": [
+      {
+        "id": "01",
+        "photo": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713720395/testimonials/sm3vhi9ndhn5id0wz3am.png",
+        "paragraph": "Since implementing the Harborlead Teach lead management system, we have experienced an increase in our direct bookings. The platform is very easy to use and has allowed us to segment and manage our leads much more efficiently. Thank you so much Harborlead for helping us boost our business!",
+        "name": "Marina Azure",
+        "rol": "Boutique Hotel"
+      },
+      {
+        "id": "02",
+        "photo": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713720395/testimonials/bsjav39ghxqierhtocb0.png",
+        "paragraph": "We partnered with Harborlead to improve our lead capture and couldn't be happier with the results. Their system has allowed us to personalize our marketing strategies and reach potential customers more effectively. We would recommend Harborlead Tech to any company! in the tourism industry!",
+        "name": "ExploraMundo",
+        "rol": "Travel Agency"
+      },
+      {
+        "id": "03",
+        "photo": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713720395/testimonials/f7hoqg2unckgllwv25p1.png",
+        "paragraph": "Harborlead has completely transformed the way we manage our leads. Its intuitive platform and analytics tools have given us deeper insight into our customers' behavior, allowing us to tailor our offers and increase our conversions. Thank you Harborlead for being our ally in success!",
+        "name": "Tour Operator",
+        "rol": "Extreme Adventures"
+      },
+      {
+        "id": "04",
+        "photo": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713720395/testimonials/muqfcnxioqhfx6tvsp27.png",
+        "paragraph": "As a tourism agency, we found Harborlead Tech lead management solution exceptionally effective. It significantly boosted our competitiveness by optimizing marketing strategies and enhancing lead quality. We highly recommend it for any tourism company seeking to elevate their lead strategies.",
+        "name": "Digital Marketing Agency",
+        "rol": "Creative Fusion"
+      }
+    ]
+  },
+  "section-seven": {
+    "bg": "last.png",
+    "title": "We see ourselves as undisputed leaders in the field of management and capturing leads for the tourism sector. We constantly seek innovation and excellence in our products and services, with the aim of transforming the way tourism is managed globally.",
+    "button": "LEARN MORE",
+    "suscribe": {
+      "text": "Contact Us",
+      "placeholder": "Enter Email Address",
+      "button": "Contact",
+      "error": "Please enter a valid email"
+    }
+  },
+  "section-footer": {
+    "copy": "All Rights Reserved 2024",
+    "logo": {
+      "url": "LogoTextoBlanco.svg",
+      "alt": "logo with text"
+    },
+    "twitter-icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713729480/leads_landing/social/zhoeulxei08xlf689f8r.png",
+    "instagram-icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713729480/leads_landing/social/zudybrsi9d5kiy9je140.png",
+    "facebook-icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713729480/leads_landing/social/je6lekhnsvmsi66fjkiw.png",
+    "linkedin-icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713729480/leads_landing/social/qryipsnajhnxp353kwsr.png",
+    "social-media-alt": "social media image"
+  },
+  "logo": {
+    "url": "/logos/6.png",
+    "alt": "logo image"
+  },
+  "logo-white": {
+    "url": "/logos/4.png",
+    "alt": "logo image"
+  },
+  "logo-color": {
+    "url": "/logos/2.png",
+    "alt": "logo image"
+  },
+  "bolg": {
+    "icon": "blog.png",
+    "title": "Blog",
+    "text": "Visit our blog!",
+    "url": "https://harborlead.blog.sistemasvirtuales.net/"
+  },
+  "contact": "harborlead@gmail.com",
+  "project": {
+    "title": "Harborlead",
+    "subtititle1": "Management and Lead Capture System",
+    "subtititle2": "(Technological Solution for Comprehensive Tourism Management)",
+    "paragraph": "At Harborlead, we stand out for our unique combination of technology experience and deep knowledge of the tourism sector. Our solutions are custom designed for the specific needs of each client, offering an unparalleled competitive advantage in a constantly evolving market.",
+    "image": "projects.webp",
+    "bg": "BGprojects.jpg",
+    "photos": [
+      {
+        "urls": [
+          "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713988623/leads_landing/bg/aiccifyvubzqfppjvh5i.jpg",
+          "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713991552/leads_landing/bg/l4fdeo8gdgf8c4xovb3d.jpg",
+          "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713992659/leads_landing/bg/frewotam8fnuhq4yauft.jpg"
+        ],
+        "alt": "photo 1 image",
+        "title": "Strategic Consultation",
+        "subtitle": "Uncover Property Potential",
+        "description": "Our strategic consultation services involve in-depth analysis and planning to identify the unique selling points of each property, enabling you to make informed decisions and maximize its potential.",
+        "button": "READ MORE",
+        "button-back": "READ LESS"
+      },
+      {
+        "urls": [
+          "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713988623/leads_landing/bg/yminyapju7oet6yyogkx.jpg",
+          "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713988623/leads_landing/bg/xdnvbxqjxa2829tk8u41.jpg",
+          "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713992404/leads_landing/bg/ndqvbupefn4fonadmvtd.jpg"
+        ],
+        "alt": "photo 2 image",
+        "title": "Captivating Design",
+        "subtitle": "Transforming Spaces",
+        "description": "Our captivating design services focus on creating visually stunning interiors and exteriors that enhance the appeal of your property, attracting more potential buyers and maximizing its value.",
+        "button": "READ MORE",
+        "button-back": "READ LESS"
+      }
+    ]
+  }
+}
