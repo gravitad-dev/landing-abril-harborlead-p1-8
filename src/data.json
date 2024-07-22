@@ -3,42 +3,42 @@
     "navbar": [
       {
         "id": 1,
-        "text": "HOME",
+        "text": "INICIO",
         "href": "home",
         "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713749117/icons/lmoaahy64aukkhs7wzjo.png",
         "alt": "icon image home"
       },
       {
         "id": 2,
-        "text": "SERVICES",
+        "text": "SOBRE NOSOTROS",
         "href": "services",
         "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713749117/icons/rp2jfmrods6bcwweqxja.png",
         "alt": "icon image services"
       },
       {
         "id": 3,
-        "text": "WHY US?",
+        "text": "¿PORQUE NOSOTROS?",
         "href": "whyus",
         "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713749117/icons/d0kzeuaomrzyu0lh1li4.png",
         "alt": "icon image why"
       },
       {
         "id": 4,
-        "text": "ABOUT US",
+        "text": "MISIÓN",
         "href": "about",
         "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713749117/icons/ahau1yjehwvmwd73hzqc.png",
         "alt": "icon image about"
       },
       {
         "id": 5,
-        "text": "TESTIMONIALS",
+        "text": "TESTIMONIOS",
         "href": "testimonials",
         "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713749117/icons/xcpntyozaprkzea4hlyn.png",
         "alt": "icon image testimonials"
       },
       {
         "id": 6,
-        "text": "PROJECT",
+        "text": "PROYECTOS",
         "href": "projects",
         "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713749117/icons/vtlcz3bmlrkiimsnvp4q.png",
         "alt": "icon image projects"
@@ -53,7 +53,7 @@
     },
     "button": {
       "id": 7,
-      "text": "CONTACT",
+      "text": "CONTACTO",
       "href": "contact",
       "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713749117/icons/mffequafivmj8oywl0kw.png",
       "alt": "icon image contact"
@@ -62,7 +62,7 @@
   "section-one": {
     "bg": "hero.webp",
     "bg-alt": "background image",
-    "title": "Drive success, navigate the future - Harborlead",
+    "title": "Impulsa el éxito, navega hacia el futuro: HarborLead",
     "form": {
       "title-form": "Get a Free Consultation",
       "full-name": "Full Name",
@@ -73,8 +73,8 @@
     }
   },
   "section-two": {
-    "title": "Services",
-    "paragraph": "At Harborlead Tech, we are pioneers in creating cutting-edge technological solutions for managing and capturing leads. Founded by a team of passionate technology and tourism experts, our mission is to drive growth and efficiency in the tourism industry through innovative and customized tools.",
+    "title": "Sobre nosotros",
+    "paragraph": "En HarborLead somos pioneros en crear soluciones tecnológicas de última generación para la gestión y captación de leads. Fundada por un equipo de apasionados expertos en tecnología y turismo, nuestra misión es impulsar el crecimiento y la eficiencia en la industria del turismo a través de herramientas innovadoras y personalizadas.",
     "bg": "summer.png",
     "bg-alt": "background image",
     "img1": "about1.jpg",
@@ -86,24 +86,24 @@
   },
   "section-three": {
     "bg": "summer.png",
-    "title": "Why Choose Us?",
+    "title": "¿Por qué elegirnos?",
     "Card1": {
       "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713587268/leads_landing/iconos/zbw9m6bycsxqdfzee57l.png",
       "icon-alt": "icon image card1",
-      "title": "Competitive advantages",
-      "paragraph": "We pride ourselves on offering the best solutions on the market for managing and capturing leads in the tourism sector. Our focus on innovation and customization allows us to provide our clients with cutting-edge technological tools that maximize their operational efficiency and business success."
+      "title": "Ventajas competitivas",
+      "paragraph": "En HarborLead nos enorgullecemos de ofrecer las mejores soluciones del mercado para la gestión y captación de leads en el sector turístico. Nuestro enfoque en la innovación y la personalización nos permite brindar a nuestros clientes herramientas tecnológicas de vanguardia que maximizan su eficiencia operativa y éxito comercial."
     },
     "Card2": {
       "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713587268/leads_landing/iconos/u3vsxfushckcz7ag7x6r.png",
       "icon-alt": "icon image card2",
-      "title": "Commitment to quality",
-      "paragraph": "Quality is fundamental to everything we do at Harborlead Tech. From initial design to implementation and ongoing support, we strive to ensure that every aspect of our technology solutions meets the highest standards of excellence. Our goal is to exceed our customers' expectations every step of the way."
+      "title": "Compromiso con la calidad",
+      "paragraph": "La calidad es fundamental para todo lo que hacemos en HarborLead. Desde el diseño inicial hasta la implementación y el soporte continuo, nos esforzamos por garantizar que cada aspecto de nuestras soluciones tecnológicas cumpla con los más altos estándares de excelencia. Nuestro objetivo es superar las expectativas de nuestros clientes en cada paso del camino."
     },
     "Card3": {
       "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713587268/leads_landing/iconos/xnw79s4p5mhhiyl7sdz2.png",
       "icon-alt": "icon image card3",
-      "title": "Continuous innovation",
-      "paragraph": "In a constantly evolving world, innovation is key to staying relevant and competitive. So, at Harborlead Tech, we are dedicated to constant research and development, always looking for new ways to improve and expand our technological solutions to meet the changing needs of the tourism market."
+      "title": "Innovación continua",
+      "paragraph": "En un mundo en constante evolución, la innovación es clave para seguir siendo relevante y competitivo. En HarborLead nos dedicamos a la investigación y el desarrollo constantes, siempre buscando nuevas formas de mejorar y ampliar nuestras soluciones tecnológicas para satisfacer las necesidades cambiantes del mercado turístico."
     }
   },
   "section-four": {
@@ -119,47 +119,47 @@
       "url": "why3.jpg",
       "alt": "photo3 image"
     },
-    "title": "About Us",
-    "paragraph": "Our mission at Harborlead is to provide our clients in the tourism industry with the tools necessary to reach their full potential. We strive to design and develop cutting-edge technological solutions that optimize comprehensive lead management, allowing our clients to convert opportunities into tangible results.",
+    "title": "Misión",
+    "paragraph": "Nuestra misión en HarborLead es brindar a nuestros clientes de la industria del turismo las herramientas necesarias para alcanzar su máximo potencial. Nos esforzamos en diseñar y desarrollar soluciones tecnológicas de vanguardia que optimicen la gestión integral de leads, permitiendo a nuestros clientes convertir oportunidades en resultados tangibles.",
     "button": "LEARN MORE"
   },
   "section-six": {
-    "title": "Happy Clients",
+    "title": "Clientes Felices",
     "testimonials": [
       {
         "id": "01",
         "photo": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713720395/testimonials/sm3vhi9ndhn5id0wz3am.png",
-        "paragraph": "Since implementing the Harborlead Teach lead management system, we have experienced an increase in our direct bookings. The platform is very easy to use and has allowed us to segment and manage our leads much more efficiently. Thank you so much Harborlead for helping us boost our business!",
+        "paragraph": "Desde que implementamos el sistema de gestión de clientes potenciales de HarborLead, hemos experimentado un aumento significativo en nuestras reservas directas. La plataforma es fácil de usar y nos ha permitido segmentar y gestionar nuestros clientes potenciales de manera más eficiente. ¡Gracias HarborLead por ayudarnos a impulsar nuestro negocio!",
         "name": "Marina Azure",
-        "rol": "Boutique Hotel"
+        "rol": "Hotel Boutique"
       },
       {
         "id": "02",
         "photo": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713720395/testimonials/bsjav39ghxqierhtocb0.png",
-        "paragraph": "We partnered with Harborlead to improve our lead capture and couldn't be happier with the results. Their system has allowed us to personalize our marketing strategies and reach potential customers more effectively. We would recommend Harborlead Tech to any company! in the tourism industry!",
+        "paragraph": "Nos asociamos con HarborLead para mejorar nuestra captura de clientes potenciales y no podríamos estar más contentos con los resultados. Su sistema nos ha permitido personalizar nuestras estrategias de marketing y llegar a clientes potenciales de manera más efectiva. ¡Recomendaríamos HarborLead a cualquier empresa del sector turístico! ¡industria!",
         "name": "ExploraMundo",
-        "rol": "Travel Agency"
+        "rol": "Agencia de Viajes"
       },
       {
         "id": "03",
         "photo": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713720395/testimonials/f7hoqg2unckgllwv25p1.png",
-        "paragraph": "Harborlead has completely transformed the way we manage our leads. Its intuitive platform and analytics tools have given us deeper insight into our customers' behavior, allowing us to tailor our offers and increase our conversions. Thank you Harborlead for being our ally in success!",
+        "paragraph": "HarborLead ha transformado completamente la forma en que gestionamos nuestros clientes potenciales. Su plataforma intuitiva y sus herramientas de análisis nos han brindado una visión más profunda del comportamiento de nuestros clientes, lo que nos permite personalizar nuestras ofertas y aumentar nuestras conversiones. Gracias HarborLead por ser nuestro aliado en el éxito. !",
         "name": "Tour Operator",
-        "rol": "Extreme Adventures"
+        "rol": "Aventuras Extremas"
       },
       {
         "id": "04",
         "photo": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713720395/testimonials/muqfcnxioqhfx6tvsp27.png",
-        "paragraph": "As a tourism agency, we found Harborlead Tech lead management solution exceptionally effective. It significantly boosted our competitiveness by optimizing marketing strategies and enhancing lead quality. We highly recommend it for any tourism company seeking to elevate their lead strategies.",
-        "name": "Digital Marketing Agency",
+        "paragraph": "Como agencia especializada en el sector turístico, buscábamos una solución integral de gestión de leads que nos permitiera ofrecer resultados tangibles a nuestros clientes. HarborLead no sólo cumplió nuestras expectativas, sino que las superó. Su sistema nos ha dado una ventaja. competitividad significativa al optimizar nuestras campañas de marketing y aumentar la calidad de nuestros clientes potenciales.",
+        "name": "Agencia de Marketing Digita",
         "rol": "Creative Fusion"
       }
     ]
   },
   "section-seven": {
     "bg": "last.png",
-    "title": "We see ourselves as undisputed leaders in the field of management and capturing leads for the tourism sector. We constantly seek innovation and excellence in our products and services, with the aim of transforming the way tourism is managed globally.",
-    "button": "LEARN MORE",
+    "title": "Nos consideramos líderes indiscutibles en el ámbito de la gestión y captación de leads para el sector turístico. Buscamos constantemente la innovación y la excelencia en nuestros productos y servicios, con el objetivo de transformar la forma en que se gestiona el turismo a nivel global.",
+    "button": "LEER MÁS",
     "suscribe": {
       "text": "Contact Us",
       "placeholder": "Enter Email Address",
@@ -168,7 +168,7 @@
     }
   },
   "section-footer": {
-    "copy": "All Rights Reserved 2024",
+    "copy": "Todos los derechos reservados 2024",
     "logo": {
       "url": "LogoTextoBlanco.svg",
       "alt": "logo with text"
@@ -194,15 +194,15 @@
   "bolg": {
     "icon": "blog.png",
     "title": "Blog",
-    "text": "Visit our blog!",
+    "text": "¡Visita nuestro blog!",
     "url": "https://harborlead.blog.sistemasvirtuales.net/"
   },
   "contact": "harborlead@gmail.com",
   "project": {
     "title": "Harborlead",
-    "subtititle1": "Management and Lead Capture System",
-    "subtititle2": "(Technological Solution for Comprehensive Tourism Management)",
-    "paragraph": "At Harborlead, we stand out for our unique combination of technology experience and deep knowledge of the tourism sector. Our solutions are custom designed for the specific needs of each client, offering an unparalleled competitive advantage in a constantly evolving market.",
+    "subtititle1": "Sistema de Gestión y Captación de Leads",
+    "subtititle2": "(Solución Tecnológica para la Gestión Integral del Turismo)",
+    "paragraph": "En Harborlead destacamos por nuestra combinación única de experiencia tecnológica y profundo conocimiento del sector turístico. Nuestras soluciones están diseñadas a medida para las necesidades específicas de cada cliente, ofreciendo una ventaja competitiva incomparable en un mercado en constante evolución.",
     "image": "projects.webp",
     "bg": "BGprojects.jpg",
     "photos": [

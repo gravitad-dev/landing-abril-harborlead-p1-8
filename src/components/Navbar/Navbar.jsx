@@ -1,8 +1,8 @@
-import useNav from '../../hooks/useNav';
-import MenuMobile from './MenuMobile';
-import data from '../../data.json';
-import { BsJustify, BsXLg } from 'react-icons/bs';
-import { Link } from 'react-scroll';
+import useNav from "../../hooks/useNav";
+import MenuMobile from "./MenuMobile";
+import data from "../../data.json";
+import { BsJustify, BsXLg } from "react-icons/bs";
+import { Link } from "react-scroll";
 
 const Navbar = () => {
   const { isOpen, handleIsOpen } = useNav();
@@ -19,14 +19,14 @@ const Navbar = () => {
               className="w-[128px] sm:hidden lg:block sm:w-[140px] cursor-pointer hover:animate-rotate-x hover:animate-duration-[1000ms] hover:animate-ease-linear"
             />
             <img
-              src={data['logo-color'].url}
-              alt={data['logo-color'].alt}
+              src={data["logo-color"].url}
+              alt={data["logo-color"].alt}
               className="w-[64px] hidden sm:block lg:hidden cursor-pointer hover:animate-rotate-x hover:animate-duration-[1000ms] hover:animate-ease-linear"
             />
           </div>
         </a>
         <div className="w-full xl:w-2/3 hidden sm:flex items-center justify-around px-4 gap-4 xl:gap-6 font-semibold lg:font-normal">
-          {data['section-header'].navbar.map((item, index) => (
+          {data["section-header"].navbar.map((item, index) => (
             <Link
               to={item.href}
               spy={false}
@@ -45,20 +45,25 @@ const Navbar = () => {
             </Link>
           ))}
           <a
-            href={data['section-header'].blog.href}
+            href={data["section-header"].blog.href}
             target="_blank"
             className="text-md sm:text-[12px] lg:text-[16px] w-max hover:text-light-blue-custom cursor-pointer"
           >
-            {data['section-header'].blog.text}
+            {data["section-header"].blog.text}
           </a>
           <a
             href={`mailto:${data.contact}?subject=Contact`}
             className="hidden md:block text-md sm:text-[12px] lg:text-[16px]"
           >
             <div className="w-full flex justify-center">
-              <button type="submit" className="orange-button min-w-max">
-                {data['section-header'].button.text}
-              </button>
+              <a
+                href="https://harborlead.blog.sistemasvirtuales.net/contacto/"
+                target="blank_"
+              >
+                <button className="orange-button min-w-max">
+                  {data["section-header"].button.text}
+                </button>
+              </a>
             </div>
           </a>
           <a
@@ -67,7 +72,7 @@ const Navbar = () => {
           >
             <div className="w-full flex justify-center">
               <button type="submit">
-                {data['section-header'].button.text}
+                {data["section-header"].button.text}
               </button>
             </div>
           </a>
